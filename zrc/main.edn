@@ -1,6 +1,7 @@
 {ns main
  import #{aidbox
-          config}
+          config
+          icd10cm}
  
  box
  {:zen/tags #{aidbox/system}
