@@ -1,1 +1,1 @@
-{:deps {hl7-fhir-r4-core "git@github.com:zen-fhir/icd10-cm.git"}}
+{:deps {icd10cm "https://github.com/zen-fhir/icd10-cm.git"}}
